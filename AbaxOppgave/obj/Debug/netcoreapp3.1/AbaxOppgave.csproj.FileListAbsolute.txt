@@ -1,0 +1,13 @@
+C:\Users\GET\source\repos\AbaxOppgave\AbaxOppgave\bin\Debug\netcoreapp3.1\AbaxOppgave.exe
+C:\Users\GET\source\repos\AbaxOppgave\AbaxOppgave\bin\Debug\netcoreapp3.1\AbaxOppgave.deps.json
+C:\Users\GET\source\repos\AbaxOppgave\AbaxOppgave\bin\Debug\netcoreapp3.1\AbaxOppgave.runtimeconfig.json
+C:\Users\GET\source\repos\AbaxOppgave\AbaxOppgave\bin\Debug\netcoreapp3.1\AbaxOppgave.runtimeconfig.dev.json
+C:\Users\GET\source\repos\AbaxOppgave\AbaxOppgave\bin\Debug\netcoreapp3.1\AbaxOppgave.dll
+C:\Users\GET\source\repos\AbaxOppgave\AbaxOppgave\bin\Debug\netcoreapp3.1\AbaxOppgave.pdb
+C:\Users\GET\source\repos\AbaxOppgave\AbaxOppgave\obj\Debug\netcoreapp3.1\AbaxOppgave.csprojAssemblyReference.cache
+C:\Users\GET\source\repos\AbaxOppgave\AbaxOppgave\obj\Debug\netcoreapp3.1\AbaxOppgave.AssemblyInfoInputs.cache
+C:\Users\GET\source\repos\AbaxOppgave\AbaxOppgave\obj\Debug\netcoreapp3.1\AbaxOppgave.AssemblyInfo.cs
+C:\Users\GET\source\repos\AbaxOppgave\AbaxOppgave\obj\Debug\netcoreapp3.1\AbaxOppgave.csproj.CoreCompileInputs.cache
+C:\Users\GET\source\repos\AbaxOppgave\AbaxOppgave\obj\Debug\netcoreapp3.1\AbaxOppgave.dll
+C:\Users\GET\source\repos\AbaxOppgave\AbaxOppgave\obj\Debug\netcoreapp3.1\AbaxOppgave.pdb
+C:\Users\GET\source\repos\AbaxOppgave\AbaxOppgave\obj\Debug\netcoreapp3.1\AbaxOppgave.genruntimeconfig.cache
